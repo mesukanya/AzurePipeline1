@@ -1,0 +1,922 @@
+Done👍🏻
+thnks
+https://docs.google.com/document/d/1ZFdT0eznS8l3BaFg4igN1zrcYLRjgY8uYX8ypTKHPM0/edit?usp=sharing
+Okay
+belifakbar@gmail.com added pbhattjayna@yahoo.com to the Hangout.
+May 31, 4:43 PM
+Suraj turned on joining by link.
+Suraj turned off joining by link.
+Hi Deepak sir at what timw do v all expect for introduction on MI and Cloud Compute overview
+?
+I am on the way once reach office will decide
+ok
+Seaborn library is not getting import after installing from terminal
+no .gitignore file, improve committing msg but it can much more be improved, improve directory structure, add branching but name is not correct and both branches containing same code, commit should in chunks, improve commenting in the code but it can be much more improved, files have the unwanted code, improved naming conventions of the folders, unwanted spaces in the code, unwanted print statements in the code, variable naming conventions need more improvisation, not implemented Oops concepts in code only create class and object nothing else, commit unwanted files like __int__.py, code can be improved.
+hi deepak 
+i have a doubt 
+Yeah
+create two working python envirnoment ie:testenv1 with numpy and testenv2 with panda.. create a python file .I am able to config testenv2 with panda lib but not able to config testenv1 as a interpreter
+/home/admin1/Downloads/github-git-cheat-sheet.pdf
+should we go to the meeting room ?
+wait only 5 min it going to empty 
+ok
+Guys you can all please share your github account link here
+https://github.com/akbarbelif
+https://github.com/ArunCSK/PythonWeek1.git
+https://github.com/ArunCSK/Seaborn.git
+https://github.com/GayatriDPatil/PythonWeek1
+What about others
+https://github.com/akbarbelif/Python
+https://github.com/akbarbelif/Python.git
+https://github.com/JaynaBhatt/Python-Program-Week1
+https://github.com/mesukanya/PythonRepo
+https://github.com/mesukanya/-Python2ndweek
+https://github.com/sudalvi/First-Week
+All. Done??
+Ram left 
+sir plss check only my first link
+ok
+https://github.com/ramtiwary/week_1
+Hi Deepak,
+please share 2nd week problem statements
+https://docs.google.com/document/d/14f832MDZ5h0lGH6k5To98urSjIKlDY31LnFLLsrT-3c/edit?usp=sharing
+please provide drive permission for access
+how can i update python env 2.7 to 3.5 ?
+hi deepak
+could u share u share us the git reportary name containing lib name
+https://www.videolan.org/vlc/
+vlc downloadf
+Hi deepak .Have confusion in ploting Bike Share Dataset. Please Explain us the way to plot multilinear and decission tree regression 
+This plotting available in videos
+Because this part is not much necessary for us
+We have to focus to understand the concept and algorithms working
+Because we are going to use azure tools for plotting
+So now you guys have to focus on the algorithms understanding and there working how they work
+And where we have to use which algorithms on which dataset
+Got it
+hi Deepak pls provide us with NLP Problems and study materials
+i found the study material
+i m finding difficulty learning _init_ def and self attritute 
+hi Deepak have a unsolved qurery above 
+waiting for ur reply deepak 
+Wait for while
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1211560/
+Accuary Between True value and Predicted Value:
+[[45 16]
+[ 8 80]]
+Accuracy Result for Test Data :
+0.8389261744966443
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL
+for NLP 
+plz refer this videos onlr 
+only
+ok ram
+hi deepak  can v use one azure account to learn how to install hadoop single node 
+Hadoop Installation Tutorial | Hadoop Cluster Setup | Hadoop Installation on CentOS | Edureka
+Hadoop Installation Tutorial | Hadoop Cluster Setup | Hadoop Installation on CentOS | Edureka
+https://www.youtube.com/watch?v=l1QmEPEAems
+Deployment of Apache Hadoop 2.7.0 as single-node on Microsoft Azure Linux server VM
+Deployment of Apache Hadoop 2.7.0 as single-node on Microsoft Azure Linux server VM
+https://www.youtube.com/watch?v=U6SMPabGLvg
+where are you guys
+??/
+how much time take to reach office??
+we all are here sir
+Ok
+to start my namenode its tell me  Permission denied
+use sudo 
+cmd not found
+working
+Weekly reviews which happened every Friday but in this week your reviews will be on Thursday means tomorrow so be prepare...
+we are still working
+we are not prepared ... we are still working on  installation part
+we are still installing only
+We are still working on installation and understanding architecture
+https://www.digitalvidya.com/blog/install-hadoop-on-ubuntu-and-run-your-first-mapreduce-program/
+please give us the hadoop intorduction session
+hi Deepak. Please give us the hadoop introduction session. I am not feeling well , but still i am came here because of today there is introduction and review. I am not in the situation that i can come tomorrow
+your guys review done ???
+No
+no
+we want ur session beforte review
+before*
+please go for the review 
+bcz session take time 
+it will take more than 1,5 hours 
+im not able to create any directory on hdfs .. kindly suggest solution
+what the issue 
+??
+not able to create new directory on using hdfs command
+bin/hdfs dfs -mkdir /user/arun
+any error on terminal??
+yes 
+mkdir: For input string: "l"
+not a error 
+but commands has been listed out in terminal
+Wrong cmd you are using
+which command should i use
+Hdfs dfs -mkdir folder name
+Use it
+Command 'hdfs' not found, did you mean:
+getting this message now
+Search on google
+It will some installation packages which you have to install
+my bashrc file has right script 
+export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_HOME/lib/native export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib"
+
+but still  showing me 
+Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+check the user permission 
+it has admin -R permission 
+hi deepak namenodes is showing [localhost]
+and 
+secondary namenode on HADOOP
+with unable to load native-hadoop library for your platform error
+Deployment of Apache Hadoop 2.7.0 as single-node on Microsoft Azure Linux server VM
+Deployment of Apache Hadoop 2.7.0 as single-node on Microsoft Azure Linux server VM
+https://www.youtube.com/watch?v=U6SMPabGLvg&feature=youtu.be
+https://www.digitalvidya.com/blog/install-hadoop-on-ubuntu-and-run-your-first-mapreduce-program/
+Big data Introduction
+
+https://www.youtube.com/playlist?list=PLlz0muypSBNYYSJU3_pfYFbN_zveOU1km
+https://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/
+got to link to download and perform map reduce operation
+Hdfs Command
+
+
+https://data-flair.training/blogs/commands-in-hadoop/
+follow this step 
+
+sudo apt install -y openjdk-8-jdk wget
+sudo update-alternatives --display java
+(Copy the path)
+sudo update-alternatives --config java
+(select java 8 )
+
+alter bashrc file and hadoop-env.sh
+hi deepak v all hav install hadoop on vm. 
+get connection error whenever v perform hdfs operation
+Jun 28, 3:27 PM
+help
+https://hadoop.apache.org/docs/r1.2.1/file_system_shell.pdf
+Some is there
+???
+Sorry by mistake
+hdfs put file
+Block size of file
+hi deepak , we have to format namenode always to keep the service running
+?
+not able to locate hadoop streaming jar under /usr/lib
+Hadoop Streaming in Python, hadoop streaming tutorial
+Hadoop Streaming in Python, hadoop streaming tutorial
+https://www.youtube.com/watch?v=QNB1SZm2jS4&t=8s
+map and reduce for word count
+stop-all.sh
+rm -Rf /tmp
+rm -r hadoopspace/hdfs/namenode/current/
+
+rm -r hadoopspace/hdfs/namenode/datanode/current/ 
+hdfs namenode -format
+start-all.sh
+....
+hi
+https://sites.google.com/bridgelabz.com/lateral-azure-data-engineering/week-1
+http://chaalpritam.blogspot.com/2015/01/running-wordcount-on-hadoop-single-node.html
+https://stackoverflow.com/questions/47599789/hadoop-pagerank-error-when-running
+export JAVA_LIBRARY_PATH=${JAVA_LIBRARY_PATH}:/etc/opencv/lib
+https://medium.com/@josemarcialportilla/installing-scala-and-spark-on-ubuntu-5665ee4b62b1
+https://data-flair.training/blogs/spark-installation-standalone-mode/
+
+Step to Install Apache Spark Standalone Mode in linux -
+
+1.Installing Scala(Apache Spark is written in Scala)
+
+Download Scala
+wget https://downloads.lightbend.com/scala/2.13.0/scala-2.13.0.tgz
+
+Untar scala
+sudo tar -xvf scala-2.13.0.tgz
+
+Move Scala
+sudo mv scala-2.13.0/ /usr/local/scala
+
+sudo chown -R Akbar:Akbar /usr/local/scala/
+
+nano ~/.bashrc
+
+export SCALA_HOME=/usr/local/scala
+export PATH=$PATH:$SCALA_HOME/bin
+
+source ~/.bashrc
+
+Verifying Scala Installation:
+
+scala -version
+
+2. Installing Spark
+Download Spark
+wget http://apachemirror.wuchna.com/spark/spark-2.4.3/spark-2.4.3-bin-hadoop2.7.tgz
+
+untar Spark and move
+sudo tar -xvf spark-2.4.3-bin-hadoop2.7.tgz /usr/local/
+
+Path /usr/local/spark-2.4.3-bin-hadoop2.7
+
+sudo chown -R Akbar:Akbar /usr/local/spark-2.4.3-bin-hadoop2.7/
+
+nano ~/.bashrc
+
+#SPARK_HOME
+export SPARK_HOME=/usr/local/spark-2.4.3-bin-hadoop2.7/
+export PATH=$PATH:$SPARK_HOME/bin
+
+source ~/.bashrc
+
+cd $SPARK_HOME
+
+./sbin/start-all.sh
+
+jps
+
+(To code in scala using spark)
+./bin/spark-shell
+You were in a call with belifakbar@gmail.com and Jayna
+Jul 4, 11:07 AM
+after spark and scala installation
+
+
+https://data-flair.training/blogs/scala-spark-shell-commands/
+hie deepak
+plss call vikas sir
+he told me to inform u
+ hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-3.2.0.jar -file /home/aruncsk/mapper.py    -mapper /home/hduser/mapper.py -file /home/aruncsk/reducer.py   -reducer /home/hduser/reducer.py -input /arun/* -output /user/aruncsk/txt-output3
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04
+https://tecadmin.net/install-apache-kafka-ubuntu/
+chaha ghyayla CHL
+I am not able to run pyspark on jupter locally on my machine .. showing "sparkexception job aborted due to stage failure jupyter " pls guide us
+Have to check is jupyter install properly or not
+ok 
+https://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/
+You missed a call
+Jul 5, 7:08 PM
+v all have completed the needful
+https://raw.githubusercontent.com/akbarbelif/Bridge-Labz-Python-ML/HADOOP/Hadoop-mapreduce/Week%204%20review
+My week 4 Review hadoop command
+please provide week 5 overview 
+I am coming office then we will look on the week 5 Overview
+PySpark Installation | Configure Jupyter Notebook with PySpark | PySpark Tutorial | Edureka
+PySpark Installation | Configure Jupyter Notebook with PySpark | PySpark Tutorial | Edureka
+https://www.youtube.com/watch?v=K_aLjzVySvk
+Install Anaconda on Ubuntu (Python)
+Install Anaconda on Ubuntu (Python)
+https://www.youtube.com/watch?v=jo4RMiM-ihs&t=73s
+hi deepak .. v all hav install jupypter on our VM and given access to th port no 8888
+still not able to connect 
+https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297
+#jupyter python
+export PYSPARK_DRIVER_PYTHON=jupyter
+export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
+http://52.184.34.34:8888/
+http://52.184.34.34:8888/tree#
+http://104.211.226.217:8888
+How to Create Virtual Environment on jupyter Anaconda
+1.Download Anaconda
+
+2.Install Anaconda
+
+3.Create a Conda Envirnoment
+conda create -n pysparkenv
+
+4.Activate Envirnoment
+source activate pysparkenv python=3.5
+
+(optional)5.Install python lib on the Envirnoment
+conda install -c conda-forge libname
+
+6.Add python and ipykernel in the virtual envirnoment to jupyter notebook
+pip install ipykernel
+
+python -m ipykernel install --user --name=pysparkenv
+https://github.com/Parasgr7/Google-Stock-Price-Prediction/blob/master/Recurrent%2BNeural%2BNetwork.ipynb
+https://www.google.com/search?ei=lCYkXbzZBLXVz7sP3ISu2AM&q=how+add+jupyter+in+anaconda+environment&oq=how+add+jupyter+in+ana&gs_l=psy-ab.3.4.33i22i29i30l5.7332.17916..21573...2.0..0.268.3327.1j20j2......0....1..gws-wiz.....10..0i71j35i39j0j0i131j0i67j0i20i263j0i22i30.PTxqlP8M_nQ#kpvalbx=1
+How to Add Anaconda Virtualenv to Jupyter Notebook
+How to Add Anaconda Virtualenv to Jupyter Notebook
+https://www.youtube.com/watch?time_continue=30&v=Fg-hHwlb2Ik
+23.100.95.131:8888
+https://creativedata.atlassian.net/wiki/spaces/SAP/pages/82254081/Pyspark+-+Read+Write+files+from+HDFS
+df_load = sparkSession.read.csv("hdfs://localhost:9000/arun/Google_Stock_Price_Train.csv")
+train = spark.read.format("csv").option("header", "true").load("hdfs://localhost:9000/user/RamKumar/Google_Stock_Price_Train.csv")
+train = df_load.toPandas()
+ hi deepak i v need overview on spark architecture
+Coming
+df.write.save(path='csv', format='csv', mode='append', sep='\t')
+df = spark.read.format("csv").option("header", "true").load("csvfile.csv")
+x_train=spark.createDataFrame(pd.DataFrame(X_train.reshape(2,-1)))
+Error in pyspark startup:
+IPYTHON and IPYTHON_OPTS are removed in Spark 2.0+. Remove these from the environment and set PYSPARK_DRIVER_PYTHON and PYSPARK_DRIVER_PYTHON_OPTS instead.
+export IPYTHON=1
+export PYSPARK_PYTHON=/usr/bin/python3
+
+# -- HADOOP ENVIRONMENT VARIABLES START -- #
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+export HADOOP_HOME=/usr/local/hadoop
+export PATH=$PATH:$HADOOP_HOME/bin
+export PATH=$PATH:$HADOOP_HOME/sbin
+export HADOOP_MAPRED_HOME=$HADOOP_HOME
+export HADOOP_COMMON_HOME=$HADOOP_HOME
+export HADOOP_HDFS_HOME=$HADOOP_HOME
+export YARN_HOME=$HADOOP_HOME
+export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_HOME/lib/native
+export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib"
+#Scala varibales
+export SCALA_HOME=/usr/local/scala
+export PATH=$PATH:$SCALA_HOME/bin
+#SPARK_HOME
+export SPARK_HOME=/usr/local/spark-2.4.3-bin-hadoop2.7/
+export PATH=$PATH:$SPARK_HOME/bin
+
+export IPYTHON=1
+export PYSPARK_PYTHON=/usr/bin/python3
+
+
+#jupyter python
+export PYSPARK_DRIVER_PYTHON=jupyter
+export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
+
+
+
+
+
+
+
+# added by Anaconda 2.3.0 installer
+export PATH="/home/gayatri/anaconda/bin:$PATH"
+ssh gayatri@65.52.180.240
+x_train=spark.createDataFrame(pd.DataFrame(X_train.reshape(2,-1)))
+x_train.write.save(path='hdfs://localhost:9000/arun/testingfile12.csv', format='csv', mode='append', sep='\t')
+df = spark.read.format("csv").option("header", "true").load("hdfs://localhost:9000/arun/testingfile12.csv")
+df.show(5)
+https://tecadmin.net/install-python-2-7-on-ubuntu-and-linuxmint/
+conda create -n yourenvname python=x.x anaconda
+conda create -n arunenv python=2.7
+1qazXSW@#EDC
+ssh hadoop-final-2@13.75.67.141
+deepak Hadoopfinal 2 is a fresh VM
+akbarrock88@hotmail.com
+Lionking8055
+https://app.pluralsight.com/player?course=ssis-packages-azure-data-factory-migrating&author=ravikiran-srinivasul&name=ed42bcc6-bddd-4463-807b-726a20ccf227&clip=1&mode=live
+Azure Data Factory | Moving On-Premise Data to Azure Cloud | Microsoft Azure Training | Edureka
+Azure Data Factory | Moving On-Premise Data to Azure Cloud | Microsoft Azure Training | Edureka
+https://www.youtube.com/watch?v=nWM_7iql9bA
+Jul 12, 4:24 PM
+Azure Data Factory | Azure Data Factory Tutorial For Beginners | Azure Tutorial | Simplilearn
+Azure Data Factory | Azure Data Factory Tutorial For Beginners | Azure Tutorial | Simplilearn
+https://www.youtube.com/watch?v=i133n5y5DGo
+How To Manage Files Between Local And Azure Storage With AZCopy And PowerShell
+How To Manage Files Between Local And Azure Storage With AZCopy And PowerShell
+https://www.youtube.com/watch?v=FDjPUbX0rsY
+https://databricks.com/try-databricks
+https://github.com/Parasgr7/Google-Stock-Price-Prediction
+Ingest, prepare & transform using Azure Databricks & Data Factory | Azure Friday
+Ingest, prepare & transform using Azure Databricks & Data Factory | Azure Friday
+https://www.youtube.com/watch?v=CZQOxPY7UuA
+https://azure.microsoft.com/en-us/features/storage-explorer/
+Download
+https://gist.github.com/dineshmurthy/bcae8cf45b283f4c347b5e3a2bea577a
+https://raw.githubusercontent.com/ywchiu/riii/master/data/house-prices.csv
+https://github.com/ywchiu/riii/blob/master/data/house-prices.csv
+Git hub file path:
+https://github.com/sudalvi/ADF
+https://github.com/GayatriDPatil/Week6/blob/master/Week6_Review_File.py
+https://github.com/mesukanya/Week6Review
+https://github.com/akbarbelif/Bridge-Labz-Python-ML/tree/Azuredatafactory
+https://github.com/ArunCSK/MachineLearningAlgorithms/tree/master/HDFS
+https://github.com/ramtiwary/ML_Classification/blob/master/Review6thnotebook.py
+https://github.com/JaynaBhatt/PythonProject/blob/master/Review_notebook.py
+good morning everyone...Deepak v need a quit overview on week 7,once everyone come.
+Good morning Akbar
+topic still pending SSIS ETL, Power BI and kafka..
+new topic Azure HDInsight 
+Week six is still pending
+# Databricks notebook source
+# MAGIC %md
+# MAGIC
+# MAGIC This notebook shows you how to create and query a table or DataFrame loaded from data stored in Azure Blob storage.
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC
+# MAGIC ### Step 1: Set the data location and type
+# MAGIC
+# MAGIC There are two ways to access Azure Blob storage: account keys and shared access signatures (SAS).
+# MAGIC
+# MAGIC To get started, we need to set the location and type of the file.
+
+# COMMAND ----------
+
+import numpy as np
+import os.path
+import IPython
+from pyspark.sql import SQLContext
+import matplotlib.pyplot as plt
+import pandas as pd
+import pickle
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.metrics import confusion_matrix,r2_score
+
+# COMMAND ----------
+
+# Creating widgets for leveraging parameters, and printing the parameters
+#dbutils.widgets.text("accountname", "")
+dbutils.widgets.get("accountname")
+storage_account_name = getArgument("accountname")
+print ("Param -\'storage_account_name':")
+print (storage_account_name)
+#dbutils.widgets.text("accountkey", "")
+dbutils.widgets.get("accountkey")
+storage_account_access_key = getArgument("accountkey")
+print ("Param -\'storage_account_access_key':")
+print (storage_account_access_key)
+
+# dbutils.widgets.get("input")
+# input = getArgument("input")
+# print ("Param -\'input':")
+# print (input)
+
+# COMMAND ----------
+
+#dbutils.fs.unmount(mount_point = "/mnt/Akbar")
+
+# COMMAND ----------
+
+fullname = "fs.azure.account.key." +storage_account_name+ ".blob.core.windows.net"
+accountsource = "wasbs://shockprice@" +storage_account_name+ ".blob.core.windows.net"
+#if (!dbutils.fs.mounts.map(mnt => mnt.mountPoint).contains("/mnt/<directory>"))
+#if (!dbutils.fs.mount(mount_point="/mnt/Akbar")
+# print("mount Ready Exist")
+ #dbutils.fs.unmount(mount_point = "/mnt/Akbar")
+#else
+#  print("mount doesnt Exist")
+dbutils.fs.mount(
+ source = accountsource,
+ mount_point = "/mnt/Akbar",
+ extra_configs = {fullname : storage_account_access_key}
+ )
+
+spark.conf.set(fullname,storage_account_access_key)
+ #"fs.azure.account.key.%s.blob.core.windows.net" % storage_account_name,storage_account_access_key)
+
+# COMMAND ----------
+
+#dbutils.fs.unmount(mount_point = "/mnt/Akbar")
+
+# COMMAND ----------
+
+#dbutils.fs.ls("/mnt/Akbar")
+
+# COMMAND ----------
+
+# storage_account_name = "cgtrainingbatch22019"
+# storage_account_access_key = "7+djZSOsUAc25tFUcIETU3YB3kKUuyqW+RJ5ickrm9cRPZl7XQ+a6Mozt7h3WQuL9p7NPofS6Lbh3N4rpOvbUQ=="
+source_container_name = "shockprice"
+# destination_container_name = "finaldestination"
+
+# COMMAND ----------
+
+# spark.conf.set(
+#   "fs.azure.account.key.%s.blob.core.windows.net" % storage_account_name,storage_account_access_key)
+
+# COMMAND ----------
+
+source_location = "wasbs://%s@%s.blob.core.windows.net/input/Google_Stock_Price_Train.csv" % (source_container_name,storage_account_name)
+
+# COMMAND ----------
+
+destination_location = "wasbs://%s@%s.blob.core.windows.net/ouput/" % (source_location, storage_account_name)
+#If Container has Folder
+#destination_blob_folder = "%s/wrangled_data_folder" % destination_container_path
+
+# COMMAND ----------
+
+file_type = "csv"
+
+# CSV options
+infer_schema = "false"
+first_row_is_header = "false"
+delimiter = ","
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ### Step 2: Read the data
+# MAGIC Now that we have specified our file metadata, we can create a DataFrame.
+# MAGIC First, let's create a DataFrame in Python.
+
+# COMMAND ----------
+
+train = spark.read.format(file_type)\
+     .option("inferSchema", "false")\
+     .option("header", first_row_is_header) \
+     .option("sep", delimiter) \
+     .load(source_location)
+
+
+df_train=pd.read_csv("/dbfs/mnt/Akbar/input/Google_Stock_Price_Train.csv")
+# with open("/dbfs/mnt/Akbar/input/Google_Stock_Price_Test.csv", 'r') as f:
+#   for line in f:
+#     print (line)
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC
+# MAGIC ### Step 3: Query the data
+# MAGIC 
+https://docs.microsoft.com/en-gb/azure/cosmos-db/create-sql-api-python#review-the-code
+getting following error on cosmos db connection
+ name 'cosmos_client' is not defined
+import azure.cosmos.cosmos_client as cosmos_client
+config = {
+'ENDPOINT': 'FILLME',
+'PRIMARYKEY': 'FILLME',
+'DATABASE': 'CosmosDatabase',
+'CONTAINER': 'CosmosContainer'
+}
+# Initialize the Cosmos client
+client = cosmos_client.CosmosClient(url_connection=config['ENDPOINT'], auth={
+'masterKey': config['PRIMARYKEY']})
+# Create a database
+db = client.CreateDatabase({'id': config['DATABASE']})
+# Create container options
+options = {
+'offerThroughput': 400
+}
+container_definition = {
+'id': config['CONTAINER']
+}
+# Create a container
+container = client.CreateContainer(db['_self'], container_definition, options)
+# Create and add some items to the container
+item1 = client.CreateItem(container['_self'], {
+'id': 'server1',
+'Web Site': 0,
+'Cloud Service': 0,
+'Virtual Machine': 0,
+'message': 'Hello World from Server 1!'
+}
+)
+item2 = client.CreateItem(container['_self'], {
+'id': 'server2',
+'Web Site': 1,
+'Cloud Service': 0,
+'Virtual Machine': 0,
+'message': 'Hello World from Server 2!'
+}
+)
+# Query these items in SQL
+query = {'query': 'SELECT * FROM server s'}
+options = {}
+options['enableCrossPartitionQuery'] = True
+options['maxItemCount'] = 2
+result_iterable = client.QueryItems(container['_self'], query, options)
+for item in iter(result_iterable):
+print(item['message'])
+deepak
+how do save file in existing cosmosdb ?
+code: xtest.write.format("com.microsoft.azure.cosmosdb.spark").options(**writeConfig).save()
+
+java.lang.ClassNotFoundException: Failed to find data source: com.microsoft.azure.cosmosdb.spark. Not able to resolve this error while writing to cosmosDB
+Deepak can you provide a good precise and meaningful content for reference ?
+Jul 22, 5:19 PM
+PLEASE HELP
+
+https://docs.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-get-started#getkafkainfo
+
+All resources should be in same region and same resource group
+https://docs.azuredatabricks.net/spark/latest/structured-streaming/kafka.html#connect-kafka-on-hdinsight-to-azure-databricks
+
+Create virtual network in azure
+
+Create resource group in azure
+
+      3. Create HdInsight cluster with Kafka
+      
+      4. Deploy VM 
+      
+      5. Run script for pushing data into kafka on VM
+      
+       6. Create Databricks cluster
+    
+       7. Create virtual peering
+ 
+       8. Run Scripts in databricks notebook 
+
+https://docs.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-connect-vpn-gateway#configure-kafka-for-ip-advertising
+If you don't understand any step please let me know
+API for getting data - https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=MSFT&interval=1min&outputsize=compact&apikey=0D8RR9NDGU7URNQT
+5 mins
+Send a message
+Could not initialize class com.microsoft.azure.cosmosdb.spark.config.CosmosDBConfig$
+deepak kindly provide solution for above error
+deepak can you please check our notebook
+im not using any jar files 
+Wait coming
+https://docs.microsoft.com/en-gb/python/api/overview/azure/cosmosdb/client?view=azure-python
+deepak.chawla@bridgelabz.com added Suhas Mhatre to the Hangout.
+Jul 23, 1:35 PM
+Dan Taylor - From Zero to Azure with Python, Docker containers, and Visual Studio Code
+Dan Taylor - From Zero to Azure with Python, Docker containers, and Visual Studio Code
+25 :00
+https://www.youtube.com/watch?v=I1cG1FRjFOQ 
+for cosmos db https://github.com/Azure-Samples/azure-cosmos-db-python-getting-started
+deepak can u come 
+yeah coming 
+Hi All, Please put your whatsapp numbers over here
+9768265628
+8956685358
+7264933100
+7977736829
+8552921378
+9821621649
+9978266505
+getting this error while run kafka consumer
+{Exactly one of whitelist/topic is required.}
+do i need to use localhost : 9092 ?
+just check topic name how are you passing?
+its the same
+have you created topic first?
+yes 
+only one last step was left
+send msg thruuh consumer
+which command you are executing
+/usr/hdp/current/kafka-broker/bin/kafka-console-consumer.sh --bootstrap-server $KAFKABROKERS --topic test --from-beginning
+working 
+thank you sir
+suhas sir can i clear data inside my topic ?
+you can delete topic and create new one
+sir im getting this error : Broker may not be available
+when?
+at the time of passing data from producer
+have you set broker hosts?
+u mean to say variable in bashrc file ???
+yes
+yess sir
+ping me broker list you set
+and put your issues on whatsapp group
+all of you
+
+export clusterName=$(curl -u admin:$password -sS -G "https://$clusterNameA.azurehdinsight.net/api/v1/clusters" | jq -r '.items[].Clusters.cluster_name')
+echo $clusterName, $clusterNameA
+export KAFKAZKHOSTS=`curl -sS -u admin:$password -G http://headnodehost:8080/api/v1/clusters/$clusterName/services/ZOOKEEPER/components/ZOOKEEPER_SERVER | jq -r '["\(.host_components[].HostRoles.host_name):2181"] | join(",")' | cut -d',' -f1,2`
+this is what i had set yesterday in ,my bashrc file
+yesterday right?
+after that you deleted HdInsight cluster?
+yess sir
+and launched again?
+no i dint
+didn't*
+https://docs.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-get-started#getkafkainfo
+export KAFKABROKERS=`curl -sS -u admin:$password -G http://headnodehost:8080/api/v1/clusters/$clusterName/services/KAFKA/components/KAFKA_BROKER | jq -r '["\(.host_components[].HostRoles.host_name):9092"] | join(",")' | cut -d',' -f1,2`
+sushas sir getting error.. Broker may not be available 
+check your environment variables
+okay
+sushas sir got error while creating new HDcluster
+Error message
+Internal server error occurred while processing the request. Please retry the request or contact support.
+sushas sir can we create topic using python code?
+sushas sir even after creating peer between to server i m getting Broker not found
+*NoBrokersAvailable
+is it python error?
+no sir
+Sushas sir even after creating peer between to server i m getting Broker not found
+*NoBrokersAvailable
+where on VM or databricks?
+databrick
+send me producer connection code line
+# Databricks notebook source
+import threading
+import logging
+import time
+import json
+import requests
+from kafka import KafkaConsumer, KafkaProducer
+import logging
+logger = spark._jvm.org.apache.log4j
+logging.getLogger("py4j").setLevel(logging.ERROR)
+
+# COMMAND ----------
+
+# DBTITLE 1,Creating widgets for leveraging parameters, and printing the parameters
+dbutils.widgets.text("shockapi", "")
+dbutils.widgets.get("shockapi")
+shockapi = getArgument("shockapi")
+print ("Param -\'shockapi':")
+print (shockapi)
+
+dbutils.widgets.text("kafkaBroker", "")
+dbutils.widgets.get("kafkaBroker")
+kafkaBroker = getArgument("kafkaBroker")
+print ("Param -\'kafkaBroker':")
+print (kafkaBroker)
+
+# COMMAND ----------
+
+class Producer(threading.Thread):
+   daemon = True
+   def run(self):
+       response = \
+           requests.get("https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=MSFT&interval=1min&outputsize=compact&apikey=0D8RR9NDGU7URNQT")
+       data = response.json()
+       #producer = KafkaProducer(bootstrap_servers=['10.1.0.16:9092'])
+       producer = KafkaProducer(bootstrap_servers='10.1.0.6:9092,10.1.0.5:9092',value_serializer=lambda v: json.dumps(v).encode('utf-8'))
+       #producer = KafkaProducer(bootstrap_servers='wn0-kafkah.oqx2bulehyoeljoknnwyivtjfe.bx.internal.cloudapp.net:9092,wn1-kafkah.oqx2bulehyoeljoknnwyivtjfe.bx.internal.cloudapp.net:9092',value_serializer=lambda v: json.dumps(v).encode('utf-8'))
+       while True:
+           for item in data["Time Series (1min)"].items():
+               #str = json.dumps(item, indent=4, separators=(',', ':'))
+               producer.send('my-topic-demo',item)
+               time.sleep(5)
+
+# COMMAND ----------
+
+class Consumer(threading.Thread):
+   daemon = True
+   def run(self):
+       consumer = KafkaConsumer(bootstrap_servers='10.1.0.6:9092,10.1.0.5:9092',auto_offset_reset='earliest',
+                                value_deserializer=lambda m: json.loads(m.decode('utf-8')))
+#         consumer = KafkaConsumer(bootstrap_servers='wn0-kafkah.oqx2bulehyoeljoknnwyivtjfe.bx.internal.cloudapp.net:9092,wn1-kafkah.oqx2bulehyoeljoknnwyivtjfe.bx.internal.cloudapp.net:9092',auto_offset_reset='earliest',
+  value_deserializer=lambda m: json.loads(m.decode('utf-8')))
+       consumer.subscribe(['my-topic-demo'])
+       for message in consumer:
+           print (message)
+
+# COMMAND ----------
+
+def main():
+   threads = [
+       Producer(),
+       Consumer()
+   ]
+   for t in threads:
+       t.start()
+
+   time.sleep(100)
+
+if __name__ == "__main__":
+   logging.basicConfig(
+       format='%(asctime)s.%(msecs)s:%(name)s:%(thread)d:' +
+              '%(levelname)s:%(process)d:%(message)s',
+       level=logging.INFO
+   )
+   main()\
+producer = KafkaProducer(bootstrap_servers='10.1.0.6:9092,10.1.0.5:9092',value_serializer=lambda v: json.dumps(v).encode('utf-8'))
+change above line to KafkaProducer(bootstrap_servers=['10.1.0.13:9092','10.1.0.4:9092', '10.1.0.14:9092', '10.1.0.16:9092'], api_version=(0, 10))
+with your IPs replaced
+and add all IPs in brokerlist
+check IP list in ambari for all workers
+please check with Suraj how to find IPs
+Useful links for azure pipeline using rest api
+https://docs.microsoft.com/en-gb/azure/data-factory/quickstart-create-data-factory-rest-api
+
+https://docs.microsoft.com/en-gb/rest/api/datafactory/v2
+
+https://docs.microsoft.com/en-gb/rest/api/azure/
+
+https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-create-your-first-pipeline
+
+https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py
+https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-python
+suhas sir , when i m trying to preprocess my stream data with exisitng pickel object gettting X value and accuracy is 0 
+Have you applied any preprocessing steps while training model?
+yes .. and dump on blob storage .. and loaded again and applied on streaming data 
+which steps you performed, can you send some steps which you performed while training and prediction?
+sc = StandardScaler()
+X_train = sc.fit_transform(X_train)
+reg=LinearRegression()
+reg.fit(X_train,y_train)
+and while predicting?
+predict using streaming Stock Price X values
+Missed call from belifakbar@gmail.com
+Jul 30, 4:59 PM
+still Same ☹
+ https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-python
+kafka
+https://data-flair.training/forums/topic/what-is-safemode-in-hadoop/
+thank you
+https://docs.microsoft.com/en-us/python/api/azure-cosmos/azure.cosmos.cosmos_client.cosmosclient?view=azure-python#readdatabase-database-link--options-none-
+ http://localhost:8888/?token=b52d78681a7cdc8a2729f5b9437e5e79ea50bad5e017b830
+http://127.0.0.1:8888/?token=b52d78681a7cdc8a2729f5b9437e5e79ea50bad5e017b830
+sushas sir as per the contain given us , in regards to Create data factory using Powershell or Python?
+Python
+ok
+https://docs.servicenow.com/bundle/istanbul-it-operations-management/page/product/azure-cloud-provisioning/task/t_CollectAzureClientTenantID.html
+getting     raise KeyError(key) from None
+KeyError: 'AZURE_CLIENT_ID' 
+For blob storage
+https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-python
+For Azure Data Factory and Pipeline:
+https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-python
+Sushas sir how to find run id to run pipeline
+https://docs.databricks.com/api/latest/examples.html
+Can you please come to the conf room, all of you?
+coming 
+okay
+Have you pushed your code to github?
+yes
+all of you please do it
+yes
+Yes I did
+sushas kindly share your github id
+suhas-m
+have send u invitation
+ok
+Hi Deepak, 
+Only Akbar and myself have our subscription active, rest everyone subscription is disabled 
+how do you confirm about it??
+with login
+for every one 
+yes
+ok thks 
+Hi All, Use REST APIs for resource creation, please don't use python packages, REST APIs are available for everything, python packages are available for only few resources
+https://docs.databricks.com/api/latest/examples.html
+hi susha sir ... can u pls check my code on git 
+filename =AzureAPI_CASE1
+is it thew riteway 
+I checked it on git so I am saying you are using python packages
+Not an issue we will discuss once you are your desk
+I m back
+ok give me 5 mins
+ok sir
+https://docs.microsoft.com/en-us/rest/api/datafactory/
+sushas do v need to use postman 
+no
+you have to do it with python code only
+https://docs.microsoft.com/en-us/rest/api/azure/
+susha sir not able to find api to create or update Databrick
+do v need to create databrick manually ?
+https://docs.azuredatabricks.net/api/latest/clusters.html#clusters-api
+susha sir do we can to generate databrick token manully .. or its possble using API
+API
+https://docs.databricks.com/api/latest/tokens.html#create
+sir as per the second statement given per the link ..  you must first authenticate as described in Authentication.
+{"properties":{"managedResourceGroupId":"/subscriptions/5ce05161-b4a0-4fde-aa20-c3a8566bc39d/resourceGroups/databricks-rg-azureaAPIDB","provisioningState":"Accepted","authorizations":[{"principalId":"9a74af6f-d153-4348-988a-e2672920bee9","roleDefinitionId":"8e3af657-a8ff-443c-a75c-2fe8c4bcb635"}],"createdBy":{"oid":"114509d8-b664-4500-a01e-84e5628376ae","applicationId":"fa70f543-57a0-468a-8d11-091d1080d81a"},"updatedBy":{"oid":"114509d8-b664-4500-a01e-84e5628376ae","applicationId":"fa70f543-57a0-468a-8d11-091d1080d81a"}},"id":"/subscriptions/5ce05161-b4a0-4fde-aa20-c3a8566bc39d/resourceGroups/Azure_api/providers/Microsoft.Databricks/workspaces/azureaAPIDB","name":"azureaAPIDB","type":"Microsoft.Databricks/workspaces","location":"eastus"}
+azureaAPIDB - Is this the name you have given to while creating databricks?
+yes
+ok
+All of you please push your code to github
+sir again we v facing issue in regards to azure subscription ..some have inform vikas sir 
+Suraj Dalvi 
+suraj.dalvi@capgemini.com
+Ram Kumar
+ram.i.kumar@capgemini.com
+After sending mail forword the same to deepak mail_id:-deepak.chawla@bridgelabz.com
+Suhas sir, do we have api to move file from local to dbfs?
+curl -n \ -F filedata=@"SparkPi-assembly-0.1.jar" \ -F path="/docs/sparkpi.jar" \ -F overwrite=true \ https://<databricks-instance>/api/2.0/dbfs/p
+curl -n \ -F filedata=@"SparkPi-assembly-0.1.jar" \ -F path="/docs/sparkpi.jar" \ -F overwrite=true \ https://<databricks-instance>/api/2.0/dbfs/put
+sir can u provide me api to run pipeline.. getting to any option
+https://docs.microsoft.com/en-us/rest/api/datafactory/pipelines/createrun
+getting this error The requested resource does not support http method 'PUT'
+All of you please push your code to github before leaving 
+still gettting error InvalidTemplate
+ok
+please send me post url
+import subprocess
+
+subprocess.run(['curl -n -F filedata=@"/home/admin1/Desktop/tweets.py" \
+-F path="/docs/tweet_usingpyscript.py" \
+-F overwrite=true https://eastus.azuredatabricks.net/api/2.0/dbfs/put'])
+running shell command using python script
+not working
+please suggest
+please don't use shell execution for this as you can do it as rest api , you will not get proper output format 
+use it as as rest only and pass paramters
+i guess there no rest api available for moving file 
+if available please provide api url
+this is rest api only - https://eastus.azuredatabricks.net/api/2.0/dbfs/put'
+but need to check how to pass parameters to that
+filedata 
+path
+overwrite
+okay
+hi
+   https://docs.microsoft.com/en-gb/sql/analysis-services/tutorial-tabular-1200/lesson-1-create-a-new-tabular-model-project?view=sql-server-2017 
+This links have to follow for AAS task
+   https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017   
+   https://www.microsoft.com/en-us/download/details.aspx?id=45331   
+   http://www.sqlcoffee.com/Azure_0004.htm   
+Suraj - https://www.kaggle.com/datafiniti/womens-shoes-prices
+
+Sukanya - https://www.kaggle.com/eliasdabbas/search-engine-results-flights-tickets-keywords
+
+Ram - https://www.kaggle.com/AnalyzeBoston/crimes-in-boston
+
+Akbar - https://www.kaggle.com/paultimothymooney/denver-crime-data
+
+Arun - https://www.kaggle.com/cityofLA/los-angeles-parking-citations
+
+Jayna - https://www.kaggle.com/chicago/chicago-transportation-department-permits
+
+Gaytri - https://www.kaggle.com/cityofLA/los-angeles-listing-of-businesses
+Register on kaggle.com study and download the datasets
